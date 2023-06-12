@@ -1,4 +1,17 @@
 * {
-  margin:0px;
-  padding:0px;
-}
+    margin:0px;
+    padding:0px;
+  }
+  .cabecalho {
+    background-color: #F6E74C;
+    display: table;
+    width: 100%;
+  }
+  .logo{
+    float: left;
+  }
+  .text1{
+    float: left;
+    font-size: 45px;
+    align-items: center;
+  }
