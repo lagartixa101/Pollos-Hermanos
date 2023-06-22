@@ -7,6 +7,9 @@
     display: table;
     width: 100%;
   }
+  .lado_esquerdo{
+      float: left;
+  }
   .logo{
     float: left;
   }
@@ -14,4 +17,7 @@
     float: left;
     font-size: 45px;
     align-items: center;
+  }
+  .lado_direito{
+      float: right;
   }
