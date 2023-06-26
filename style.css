@@ -1,7 +1,9 @@
+/*Geral*/
 * {
     margin:0px;
     padding:0px;
   }
+/*Cabeçalho*/
   .cabecalho {
     background-color: #F6E74C;
     display: table;
@@ -21,4 +23,10 @@
   }
   .lado_direito{
       float: right;
+  }
+/*Principal*/
+
+/*Rodapé*/
+  .trabalhadores{
+    float: left;
   }
