@@ -25,6 +25,26 @@
       float: right;
   }
 /*Principal*/
+  /*Links*/
+    .link-proj1{
+        text-decoration: none;
+        color: black;
+    }
+    .link-proj2{
+        color: #EBBF2F;
+    }
+    .lado_direito a{
+        text-decoration: none;
+        color: black;
+    }
+    .projet a{
+        text-decoration: none;
+        color: black;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+  /*Cogumelo*/  
+    
 
 /*Rodapé*/
   .trabalhadores{
