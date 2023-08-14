@@ -1,52 +1,58 @@
 /*Geral*/
 * {
-    margin:0px;
-    padding:0px;
-  }
+  margin:0px;
+  padding:0px;
+}
 /*Cabeçalho*/
-  .cabecalho {
-    background-color: #F6E74C;
-    display: table;
-    width: 100%;
-  }
-  .lado_esquerdo{
-      float: left;
-  }
-  .logo{
+.cabecalho {
+  background-color: #F6E74C;
+  display: table;
+  width: 100%;
+}
+.lado_esquerdo{
     float: left;
-  }
-  .text1{
-    float: left;
-    font-size: 45px;
-    align-items: center;
-    font-family: 'Kablammo', cursive;
-  }
-  .lado_direito{
-      float: right;
-  }
+}
+.logo{
+  float: left;
+}
+.text1{
+  float: left;
+  font-size: 45px;
+  align-items: center;
+  font-family: 'Kablammo', cursive;
+}
+.lado_direito{
+    float: right;
+}
 /*Principal*/
-  /*Links*/
-    .link-proj1{
-        text-decoration: none;
-        color: black;
-    }
-    .link-proj2{
-        color: #EBBF2F;
-    }
-    .lado_direito a{
-        text-decoration: none;
-        color: black;
-    }
-    .projet a{
-        text-decoration: none;
-        color: black;
-        font-family: 'Josefin Sans', sans-serif;
-    }
+.apresentacao h1, h3{
+  text-align: justify-all;
+  margin-left: 15px;
+}
 
-  /*Cogumelo*/  
-    
+/*Links*/
+  .link-proj1{
+      text-decoration: none;
+      color: black;
+  }
+  .link-proj2{
+      color: #EBBF2F;
+  }
+  .lado_direito a{
+      text-decoration: none;
+      color: black;
+  }
+  .projet a{
+      text-decoration: none;
+      color: black;
+      font-family: 'Josefin Sans', sans-serif;
+  }
+
+/*Cogumelo*/  
+  
 
 /*Rodapé*/
-  .trabalhadores{
-    float: left;
-  }
+.trabalhadores{
+  float: left;
+  margin-left: 15px;
+}
