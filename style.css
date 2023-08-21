@@ -1,58 +1,62 @@
 /*Geral*/
 * {
-  margin:0px;
-  padding:0px;
-}
-/*Cabeçalho*/
-.cabecalho {
-  background-color: #F6E74C;
-  display: table;
-  width: 100%;
-}
-.lado_esquerdo{
+    margin:0px;
+    padding:0px;
+  }
+  /*Cabeçalho*/
+  .cabecalho {
+    background-color: #F6E74C;
+    display: table;
+    width: 100%;
+  }
+  .lado_esquerdo{
+      float: left;
+  }
+  .logo{
     float: left;
-}
-.logo{
-  float: left;
-}
-.text1{
-  float: left;
-  font-size: 45px;
-  align-items: center;
-  font-family: 'Kablammo', cursive;
-}
-.lado_direito{
-    float: right;
-}
-/*Principal*/
-.apresentacao h1, h3{
-  text-align: justify-all;
-  margin-left: 15px;
-}
-
-/*Links*/
-  .link-proj1{
-      text-decoration: none;
-      color: black;
   }
-  .link-proj2{
-      color: #EBBF2F;
+  .text_logo{
+    float: left;
+    font-size: 45px;
+    align-items: center;
+    font-family: 'Audiowide', cursive;
   }
-  .lado_direito a{
-      text-decoration: none;
-      color: black;
+  .lado_direito{
+      float: right;
   }
-  .projet a{
-      text-decoration: none;
-      color: black;
-      font-family: 'Josefin Sans', sans-serif;
+  /*Principal*/
+  .apresentacao h1, h3{
+    text-align: justify-all;
+    margin-left: 15px;
   }
-
-/*Cogumelo*/  
   
-
-/*Rodapé*/
-.trabalhadores{
-  float: left;
-  margin-left: 15px;
-}
+  /*Links*/
+    .link-proj1{
+        text-decoration: none;
+        color: black;
+    }
+    .link-proj2{
+        color: #EBBF2F;
+    }
+    .lado_direito a{
+        text-decoration: none;
+        color: black;
+    }
+    .projet a{
+        text-decoration: none;
+        color: black;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+  
+  /*Cogumelo*/  
+  .ex2, h2, ul{
+    text-align: justify-all;
+    margin-left: 15px;
+  }  
+  
+  /*Rodapé*/
+  .trabalhadores{
+    float: left;
+    margin-left: 15px;
+    padding-right: 15px;
+  }
