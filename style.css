@@ -24,6 +24,10 @@
   .lado_direito{
       float: right;
   }
+  .menu-rapido{
+    font-size: 20px;
+    }
+
   /*Principal*/
   .apresentacao h1, h3{
     text-align: justify-all;
@@ -52,7 +56,17 @@
   .ex2, h2, ul{
     text-align: justify-all;
     margin-left: 15px;
-  }  
+  } 
+  
+  .dia-a-dia{
+    list-style: none;
+    font-size: 20px;
+    margin-right: 105px;
+  }
+
+  /*Projeto da feira de ciências*/
+
+  /*Árvores*/
   
   /*Rodapé*/
   .trabalhadores{
